@@ -1,6 +1,6 @@
 # Курс «Основы веб-разработки»
 
-## Практики
+## Интенсивы
 
 0. [hello-world](https://github.com/kontur-web-courses/hello-world)
 1. [tic-tac-toe](https://github.com/kontur-web-courses/tic-tac-toe)
