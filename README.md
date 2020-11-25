@@ -9,6 +9,6 @@
 4. [west](https://github.com/kontur-web-courses/west)
 5. [article-markup](https://github.com/kontur-web-courses/article-markup)
 6. [positioning](https://github.com/kontur-web-courses/positioning)
-7. [markup-retreat](https://github.com/kontur-web-courses/markup-retreat)
+7. [tables-and-forms](https://github.com/kontur-web-courses/tables-and-forms) / [markup-retreat](https://github.com/kontur-web-courses/markup-retreat)
 8. [order-coffee](https://github.com/kontur-web-courses/order-coffee)
 9. [async](https://github.com/kontur-web-courses/async)
