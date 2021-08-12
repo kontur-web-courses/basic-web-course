@@ -1,5 +1,9 @@
 # Курс «Основы веб-разработки»
 
+## Презентации и материалы
+
+[Презентации и материалы](https://github.com/kontur-web-courses/basic-web-lessons)
+
 ## Интенсивы
 
 0. [hello-world](https://github.com/kontur-web-courses/hello-world)
