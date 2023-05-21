@@ -16,6 +16,6 @@
 7. [tables-and-forms](https://github.com/kontur-web-courses/tables-and-forms) / [markup-retreat](https://github.com/kontur-web-courses/markup-retreat)
 8. [order-coffee](https://github.com/kontur-web-courses/order-coffee)
 9. [async](https://github.com/kontur-web-courses/async)
-10. [overpriced-coffee](https://github.com/kontur-web-courses/overpriced-coffee)
+10. [todo-list](https://github.com/kontur-web-courses/todo-list)
 11. [space-y](https://github.com/kontur-web-courses/space-y)
 12. [place](https://github.com/kontur-web-courses/place)
