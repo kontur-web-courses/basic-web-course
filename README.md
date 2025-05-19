@@ -18,8 +18,11 @@
 9. [order-coffee](https://github.com/kontur-web-courses/order-coffee)
 10. [async](https://github.com/kontur-web-courses/async)
 11. [todo-list](https://github.com/kontur-web-courses/todo-list)
-12. [space-y](https://github.com/kontur-web-courses/space-y)
-13. [place](https://github.com/kontur-web-courses/place)
+12. [backend-deploy](https://github.com/kontur-web-courses/backend-deploy/tree/task)
+
+Доп практики:
+1. [space-y](https://github.com/kontur-web-courses/space-y)
+2. [place](https://github.com/kontur-web-courses/place)
 
 ## Архив
 
